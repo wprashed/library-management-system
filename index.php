@@ -36,7 +36,6 @@ echo "<script>alert('Your Account Has been blocked .Please contact admin');</scr
 }
 
 } 
-
 else{
 echo "<script>alert('Invalid Details');</script>";
 }
